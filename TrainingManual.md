@@ -12,6 +12,7 @@ https://cran.r-project.org
 
 ## 出液データの入力  
 以下にアクセスしてデータを埋める．  
+https://docs.google.com/spreadsheets/d/1QvLyyXesEA5-QznRe-jDzZPueCkXpWKljXGylKM80UY/edit?usp=sharing  
 
 
 ## 画像解析演習  
